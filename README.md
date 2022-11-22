@@ -2,6 +2,10 @@
 
 Sample product and API documentation for the new Syncro Timer feature. 
 
+* [Product documentation here](./docs/product/README.md)
+
+* [API documentation here](./docs/api/README.md)
+
 ## Considerations and assumptions
 
 * This format roughly mimics my current documentation workflow (working in a repo with markdown files).
